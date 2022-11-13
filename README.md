@@ -7,7 +7,7 @@ Displays the equipped texture packs in an OBS over lay for Minecraft Bedrock Edi
 # Requirements
 Requires latest version of OBS (28.1.12+), make sure your graphics drivers are also up to date.
 <br>
-Java 8 or higher installed.
+Java 8 or higher must be installed.
 <br>
 <br>
 

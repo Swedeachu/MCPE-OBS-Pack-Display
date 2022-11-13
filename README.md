@@ -14,7 +14,7 @@ It may take a while to load when getting packs on start, right click the frame t
 Click to iteratre through each selected pack.
 <br>
 <br>
-![pack display settings](https://user-images.githubusercontent.com/63020914/201514435-dd57419a-0f38-4e23-ac7a-4e8799d7dfa6.PNG)
+![pack display settings](https://user-images.githubusercontent.com/63020914/201514473-6e1cee09-86be-4c35-a41c-27fd52b201b4.PNG)
 
 <br>
 The pack display should be a window capture with these exact settings.

@@ -20,4 +20,4 @@ It may take a while to load when getting packs on start, right click the frame t
 <br>
 Click to iteratre through each selected pack.
 <br>
-Download the jar in releases
+The jar download is in releases

@@ -1,4 +1,4 @@
-# MCPE-OBS-Pack-Display
+# MCPE OBS Pack Display
 Displays the equipped texture packs in an OBS over lay for Minecraft Bedrock Edition. Useful for recording pack folder videos.
 <br>
 <br>
